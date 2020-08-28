@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey stranger! Welcome to my profile! How is it going? 👋
+ Back-End Developer | Porto, PT
+
+[![Linkedin Badge](https://img.shields.io/badge/-Andres%20Lawson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-santos-lawson/)](https://www.linkedin.com/in/andres-santos-lawson/)
+
+
+🖥 I’m currently working at Maintphi
+<br>
+🌱 I’m currently studying JavaScript and NodeJS
+<br>
+💬 Ask me about PHP and MySQL
 
 <!--
 **andreslawson/andreslawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
